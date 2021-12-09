@@ -21,5 +21,5 @@ No momendo focado em estudar Terraform, Blockchain, Docker, Kubernetes, Net Core
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-orix/)](https://www.linkedin.com/in/bruno-orix/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-orix/)](https://www.linkedin.com/in/brunosilvanascimento/)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/clauberhalic)](https://twitter.com/clauberhalic) -->
